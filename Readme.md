@@ -5,6 +5,8 @@ Dieses Beiblatt enthält einige Informationen zu den verfügbaren Druckvorlagen.
 
 ## Vorlagen
 
+Die Druckvorlagen sind mit der exzellenten Publishing-Software Scribus erstellt worden, die hier erhältlich ist: [Scribus Download](https://www.scribus.net/downloads/)
+
 ### Banner
 
 #### 2,00 Meter x 2,50 Meter
